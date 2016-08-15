@@ -146,6 +146,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Elm Anima](https://github.com/srikumarks/elm-anima) - An approach to animations within the Elm architecture.
 * [Tag Bubbles](https://github.com/niksilver/elm-tag-bubbles) - Tag bubbles written in Elm.
 * [Credit card checkout](https://github.com/simonewebdesign/elm-double-folding-pattern) - A credit card form built with Elm and Elixir..
+* [Undertale dialog generator](https://github.com/valrus/undertale-dialog-generator) - A WIP Elm project for generating Undertale dialog boxes.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
