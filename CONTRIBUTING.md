@@ -1,5 +1,11 @@
 # Contribution Guidelines
 
+>How can I contribute?
+* Find a project in this list and start contributing to the upgrade by creating pull requests and issues on the respective projects. Tips on upgrading here: [Upgrade howto links](#upgrade-howto-links). If you start upgrading a project, please submit an issue so that we can update the status in this list.
+* If a project has moved to a new location, or if the maintainers are not responding to issues/pull requests - please create an issue and create a pull request notifying that the project is abandoned/moved to a new location. Other people navigating to these projects will be able to see the PR/issue and find the updated projects.
+* This list is not complete. If you know other projects that should be added/modified? Feel free to contribute to this list by either subitting issues or pull requests (see [List item template](#template)).
+
+
 Please ensure your pull request adheres to the following guidelines:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
