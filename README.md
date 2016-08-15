@@ -98,6 +98,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Elm Nim](https://github.com/dimchansky/elmnim) - A Nim game for the web browser.
 * [Elm Obstacles](https://github.com/JoelQ/elm-obstacles) - A simple obstacle course game.
 * [Elm Asteroids](https://github.com/peterroelants/Elm_Asteroids) - Asteroids game in Elm. Assignment for the Comparative Programming Languages course at the KULeuven.
+* [Asteroids](https://github.com/irh/asteroids) - An Asteroids clone written in Elm.
 * [Elm Platformer](https://github.com/JoelQ/elm-platformer) - hack-day project to build a simple platformer game from scratch using the elm.
 * [Elm Bejeweled](https://github.com/aljc/Elm-Bejeweled) - https://github.com/aljc/Elm-Bejeweled.
 * [Paint the town red](https://github.com/mbylstra/paint-the-town-red) - A very simple game written in the Elm Programming language.
