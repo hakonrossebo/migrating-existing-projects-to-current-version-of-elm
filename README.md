@@ -145,6 +145,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Barnley Fern Elm](https://github.com/uehaj/Barnley-Fern-Elm) - Draw one of famous fractal shape 'Barnsley Fern' with Elm language.
 * [Elm Anima](https://github.com/srikumarks/elm-anima) - An approach to animations within the Elm architecture.
 * [Tag Bubbles](https://github.com/niksilver/elm-tag-bubbles) - Tag bubbles written in Elm.
+* [Credit card checkout](https://github.com/simonewebdesign/elm-double-folding-pattern) - A credit card form built with Elm and Elixir..
 
 **[:arrow_up: back to top](#table-of-contents)**
 
