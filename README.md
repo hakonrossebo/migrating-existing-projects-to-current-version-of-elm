@@ -191,13 +191,13 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [A Farewell to FRP](http://elm-lang.org/blog/farewell-to-frp) - Elm 0.17 blog post.
 * [Upgrading to 0.17](https://github.com/elm-lang/elm-platform/blob/master/upgrade-docs/0.17.md) - Official - Upgrading to 0.17.
 * [Aricle by Marek Fajkus on Medium](https://medium.com/@turbo_MaCk/elm-0-17-successful-upgrade-of-real-world-app-and-some-soft-of-guide-to-all-of-this-cafd59dec56f#.g0b8ewb0p) - Elm 0.17: Successful Upgrade of Real World App …and some soft of guide to all of this.
+* [LambdaCat blogpost](http://www.lambdacat.com/migrating-from-elm-0-16-to-0-17-from-startapp/) - Migrating from Elm 0.16 to 0.17 - from StartApp.
 * [Project upgrade experience](http://rundis.github.io/blog/2016/haskel_elm_spa_part5.html) - Typed up CRUD SPA with Haskell and Elm - Part 5: Elm 0.17 Upgrade.
 * [Signal usage migration](http://noredink.github.io/posts/signalsmigration.html) - Migrating signal usage from Elm 0.16 to 0.17.
 * [Making Elm realtime](https://blog.pusher.com/realtime-elm-revisited-with-elm-0-17/) - Realtime Elm Revisited with Elm 0.17.
 * [Stack overflow - signals in 0.17](http://stackoverflow.com/questions/37165371/does-signal-got-renamed-or-removed-from-in-elm-0-17) - Does Signal got renamed or removed from in elm 0.17.
 * [Porting a Module to Elm 0.17](https://hoelz.ro/blog/porting-a-module-to-elm-017) - Porting a Module to Elm 0.17.
 * [Getting the initial Window dimensions](https://www.reddit.com/r/elm/comments/4jfo32/getting_the_initial_window_dimensions/) - Getting the initial Window dimensions.
-
 
 
 **[:arrow_up: back to top](#table-of-contents)**
