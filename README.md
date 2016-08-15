@@ -23,6 +23,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
     - [Games](#games)
     - [Misc](#misc)
     - [Upgraded](#upgraded)
+    - [Not upgraded](#not-upgraded)
     - [Leave as is](#leave-as-is)
     - [Template](#template)
     - [Upgrade howto links](#upgrade-howto-links)
@@ -161,7 +162,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 
 ## Upgraded
 
-*Projects that has been upgraded to current version of Elm.*
+*Projects that has been upgraded to current version of Elmm or submitted PR/issues*
 
 * [Elm Rocket Lander](https://github.com/WeAreWizards/elm-rocket-lander) - A simple rocket lander game written in Elm.
   * Status: Updated to current version of Elm
@@ -169,6 +170,17 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
   * Changed Graphics.Collage with Kwarrtz/render to render svg
 
 **[:arrow_up: back to top](#table-of-contents)**
+
+## Not-upgraded
+
+*Projects that for some reason cannot be upgraded - submitted issue / PR*
+
+* [Elm Undo Redo](https://github.com/TheSeamau5/elm-undo-redo) - Easy undo in Elm.
+  * Status: Submitted an issue pointing to new location of project.
+  * Updated by: [hakonrossebo](https://github.com/hakonrossebo)
+
+**[:arrow_up: back to top](#table-of-contents)**
+
 
 ## Leave as is
 
