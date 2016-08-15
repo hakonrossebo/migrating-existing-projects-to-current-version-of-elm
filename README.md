@@ -107,8 +107,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Chess Elm](https://github.com/grzegorzbalcerek/chess-elm) - The game of chess.
 * [Elm Chess](https://github.com/thetalecrafter/elm-chess) - Learning Elm by making a chess game.
 * [Space Invaders](https://github.com/OekoGuesel/ElmInvaders) - SpaceInvaders using Elm.
-* [Project name](https://github.com/brainkim/elmy-bird) - Project description.
-* [Flappy Bird](http://project-url) - Flappy bird in Elm.
+* [Flappy Bird](https://github.com/brainkim/elmy-bird) - Flappy bird in Elm.
 * [Elm Snake](https://github.com/liubko/elm-snake) - A Snake game.
 * [FunFun](https://github.com/Morendil/FunFun) - Video games in Elm.
 * [Elm Redchaser](http://camspiers.github.io/elm-redchaser/) - A basic game written in Elm.
