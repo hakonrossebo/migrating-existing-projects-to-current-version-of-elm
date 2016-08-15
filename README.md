@@ -122,6 +122,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Pick and gloat](https://github.com/Dobiasd/pick-and-gloat) - Use your thinking and reaction to compete with friends.
 * [Stellaris race maker](https://github.com/kaisersly/stellaris_race_maker) - An ugly tool to let you make your own race in Stellaris, the 4X from Paradox (Crusader Kings, Europa Universalis, ...).
 * [Elm Goban](https://github.com/mclauia/elm-goban) - A simple Go board made out of Elm.
+* [Elm labyrinth](https://github.com/jvoigtlaender/elm-labyrinth) - A small game implemented to play around with Elm (up to version 0.16).
 
 **[:arrow_up: back to top](#table-of-contents)**
 
