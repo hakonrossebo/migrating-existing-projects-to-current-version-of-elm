@@ -1,15 +1,15 @@
 # Migrating existing projects to current version of Elm
 
 
-> A community driven list helping coordinate the effort of upgrading Elm projects.
+> A community driven list helping coordinate the effort of upgrading (mostly unmaintained) Elm projects.
 
-> There are many Elm projects that has been created for previous versions of Elm. 
-People learning/coming into Elm find many outdated projects that would be very useful to have running on the current version of Elm (0.17.1). 
+> There are many Elm projects that has been created for previous versions of Elm.
+People learning/coming into Elm find many outdated projects that would be very useful to have running on the current version of Elm (0.17.1).
 By maintaining this and upgrading projects, I hope that we could help the Elm community having up-to-date code.
 
->How can I contribute? 
+>How can I contribute?
 * Find a project in this list and start contributing to the upgrade by creating pull requests and issues on the respective projects. Tips on upgrading here: [Upgrade howto links](#upgrade-howto-links). If you start upgrading a project, please submit an issue so that we can update the status in this list.
-* This list is not complete. If you know other projects that should be added/modified? Feel free to contribute to this list by either subitting issues or pull requests (see [List item template](#template)). 
+* This list is not complete. If you know other projects that should be added/modified? Feel free to contribute to this list by either subitting issues or pull requests (see [List item template](#template)).
 
 
 
@@ -42,12 +42,12 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 *Packages, libraries and tools*
 
 * [ElmFire](https://github.com/ThomasWeiser/elmfire) - Firebase Bindings for Elm.
-  * [Package link](http://package.elm-lang.org/packages/ThomasWeiser/elmfire/latest) 
-  * There are already contributors suggesting that they can help out.  
+  * [Package link](http://package.elm-lang.org/packages/ThomasWeiser/elmfire/latest)
+  * There are already contributors suggesting that they can help out.
 * [Elm-Test](https://github.com/deadfoxygrandpa/Elm-Test) - A unit testing framework for Elm.
-  * Only needs an update to the readme pointing to the new repository.  
+  * Only needs an update to the readme pointing to the new repository.
 * [Elm Diagrams](https://github.com/vilterp/elm-diagrams) - An Elm library for creating diagrams, inspired by Brent Yorgey's Diagrams library for Haskel.
-  * [Package link](http://package.elm-lang.org/packages/vilterp/elm-diagrams/latest) 
+  * [Package link](http://package.elm-lang.org/packages/vilterp/elm-diagrams/latest)
 * [Quadtrees in Elm](https://github.com/TheSeamau5/elm-quadtree) - Quadtrees in Elm.
 * [Generator Elm Spa](https://github.com/jmfirth/generator-elm-spa) - A Yeoman generator single-page applications using the Elm language.
 
@@ -60,7 +60,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 *Articles with code.*
 
 * [Making pong (Official Elm blog)](http://elm-lang.org/blog/making-pong) - http://elm-lang.org/blog/making-pong.
-  * Comment: Only article - could need link to source  
+  * Comment: Only article - could need link to source
 * [Adventures reactive web dev](https://github.com/foxdonut/adventures-reactive-web-dev) - Adventures in Reactive Web Development.
 * [Elm explained](https://github.com/niksilver/elm-explained) - Demo code to explain basic features of the Elm language.
 * [Elm Cheat sheet](https://github.com/izdi/elm-cheat-sheet) - An overview of Elm syntax and features.
@@ -153,9 +153,9 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 *Projects that has been upgraded to current version of Elm.*
 
 * [Elm Rocket Lander](https://github.com/WeAreWizards/elm-rocket-lander) - A simple rocket lander game written in Elm.
-  * Status: Updated to current version of Elm 
-  * Upgraded by: [hakonrossebo](https://github.com/hakonrossebo)  
-  * Changed Graphics.Collage with Kwarrtz/render to render svg  
+  * Status: Updated to current version of Elm
+  * Upgraded by: [hakonrossebo](https://github.com/hakonrossebo)
+  * Changed Graphics.Collage with Kwarrtz/render to render svg
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -173,11 +173,11 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 *Provide a short list description here*
 
 * [Project name](http://project-url) - Project description.
-  * Status: (No status line by default) | In progress | Updated to current version of Elm 
-  * Upgraded by: [Github user name](http://github-user-url)  
-  * Comment: (No line here by default) | One or many lines with comments.  
-  * [Package link](http://package-link) 
-  * Other links: (No line here by default) | One or many lines with links.  
+  * Status: (No status line by default) | In progress | Updated to current version of Elm
+  * Upgraded by: [Github user name](http://github-user-url)
+  * Comment: (No line here by default) | One or many lines with comments.
+  * [Package link](http://package-link)
+  * Other links: (No line here by default) | One or many lines with links.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -200,4 +200,3 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 
 
 **[:arrow_up: back to top](#table-of-contents)**
-
