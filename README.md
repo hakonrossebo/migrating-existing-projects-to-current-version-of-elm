@@ -154,7 +154,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Undertale dialog generator](https://github.com/valrus/undertale-dialog-generator) - A WIP Elm project for generating Undertale dialog boxes.
 * [Elm Wallpaper editor](https://github.com/eskimoblood/elm-wallpaper-editor) - Wallpaper Group Pattern Editor.
 * [Elmflux](https://github.com/yang-wei/elmflux) - Visualization of Elm Signals.
-
+* [Gipher](https://github.com/matthieu-beteille/gipher) - Tinder like app for gifs built with elm and firebase.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
