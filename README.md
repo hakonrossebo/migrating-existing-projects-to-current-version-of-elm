@@ -64,10 +64,8 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Adventures reactive web dev](https://github.com/foxdonut/adventures-reactive-web-dev) - Adventures in Reactive Web Development.
 * [Elm explained](https://github.com/niksilver/elm-explained) - Demo code to explain basic features of the Elm language.
 * [Elm Cheat sheet](https://github.com/izdi/elm-cheat-sheet) - An overview of Elm syntax and features.
-* [Project name](https://github.com/somlor/elm-buzzword-bingo) - Project description.
-* [Buzzword Bingo](http://project-url) - From Pragmatic Studio - First app using Elm language.
-* [Project name](https://github.com/sporto/elm-patterns) - Project description.
-* [Elm patterns](http://project-url) - A collection of common patterns for Elm.
+* [Buzzword Bingo](https://github.com/somlor/elm-buzzword-bingo) - From Pragmatic Studio - First app using Elm language.
+* [Elm patterns](https://github.com/sporto/elm-patterns) - A collection of common patterns for Elm.
 * [Bike configurator](https://github.com/dennisreimann/elm-bike-configurator) - Pretty simple app for configuring a bike with colored components, written in Elm.
 * [Raycasting](https://github.com/derkyjadex/elm-rays) - Raycasting. Written for April 2016's West London Hack Night.
   * Only needs to update readme with a reference the new implementation [here](https://github.com/krisajenkins/elm-rays)
