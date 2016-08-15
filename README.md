@@ -141,7 +141,6 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Elm calculator](https://github.com/marrony/elm-calculator) - Simple Apple like calculator written in Elm Programming language.
 * [Code eval Elm](https://github.com/jw120/codeeval-elm) - Basic framework for solving codeeval.com problems with the Elm language.
 * [Barnley Fern Elm](https://github.com/uehaj/Barnley-Fern-Elm) - Draw one of famous fractal shape 'Barnsley Fern' with Elm language.
-* [Elm Undo Redo](https://github.com/TheSeamau5/elm-undo-redo) - Easy undo in Elm.
 * [Elm Anima](https://github.com/srikumarks/elm-anima) - An approach to animations within the Elm architecture.
 * [Tag Bubbles](https://github.com/niksilver/elm-tag-bubbles) - Tag bubbles written in Elm.
 
