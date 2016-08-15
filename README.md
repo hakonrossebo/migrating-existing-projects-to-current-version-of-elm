@@ -118,7 +118,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Elm Copter](https://github.com/cameron-martin/ElmCopter) - An implementation of the classic game Copter, written in Elm.
 * [Elm Battleship](https://github.com/john-kelly/elm-battleship) - A Battleship game.
 * [Gravity](https://github.com/stephenbalaban/Gravity) - An orbital simulation game written in Elm.
-
+* [Pick and gloat](https://github.com/Dobiasd/pick-and-gloat) - Use your thinking and reaction to compete with friends.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
