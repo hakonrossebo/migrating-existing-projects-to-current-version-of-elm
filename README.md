@@ -8,9 +8,10 @@ People learning/coming into Elm find many outdated projects that would be very u
 By maintaining this and upgrading projects, I hope that we could help the Elm community having up-to-date code.
 
 >How can I contribute? 
-* Find a project in this list and start contributing to the upgrade by creating pull requests and issues on the respective projects.
-* Suggest/update this list by submitting issues or pull requests. 
-This list is not complete. Feel free to contribute to this list by either subitting issues or pull requests (see [List item template](#template)).
+* Find a project in this list and start contributing to the upgrade by creating pull requests and issues on the respective projects. Tips on upgrading here: [Upgrade howto links](#upgrade-howto-links). If you start upgrading a project, please submit an issue so that we can update the status in this list.
+* This list is not complete. If you know other projects that should be added/modified? Feel free to contribute to this list by either subitting issues or pull requests (see [List item template](#template)). 
+
+
 
 ## Table of Contents
 - [Elm projects](#elm-projects)
