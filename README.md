@@ -135,6 +135,8 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Maze](https://github.com/Dobiasd/Maze) - Test your mouse precision skills with this simple maze game.
 * [2048](https://github.com/alexmost/2048) - 2048 implementation in Elm.
 * [Minesweeper](https://github.com/SekibOmazic/minesweeper) - My first take on Elm.
+* [Elm Games](https://github.com/localshred/elm-games) - A bunch of goofy games, written in Elm (Minesweeper and TicTacToe).
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
