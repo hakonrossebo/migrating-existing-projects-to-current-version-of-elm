@@ -132,6 +132,8 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Elm css color guess game](https://github.com/irrwitz/elm-css-color-guess-game) - A "do you what CSS color this looks like" game.
 * [Froggy](https://github.com/thSoft/froggy) - A little puzzle game.
 * [EditGym](https://github.com/Dobiasd/EditGym) - Text editing training.
+* [Maze](https://github.com/Dobiasd/Maze) - Test your mouse precision skills with this simple maze game.
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
