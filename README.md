@@ -5,7 +5,12 @@
 
 > There are many Elm projects that has been created for previous versions of Elm.
 People learning/coming into Elm find many outdated projects that would be very useful to have running on the current version of Elm (0.17.1).
-By maintaining this and upgrading projects, I hope that we could help the Elm community having up-to-date code.
+By maintaining this list and upgrading projects, I hope that we could help the Elm community having up-to-date code.
+
+>Why should I contribute?
+* If you are looking for opportunities to learn or improve in Elm, you can start working on an existing project instead of starting from scratch.
+* Some projects only require a little work to upgrade, but is a great contribution to the Elm community - keeping code and content up-to-date.
+
 
 >How can I contribute?
 * Find a project in this list and start contributing to the upgrade by creating pull requests and issues on the respective projects. Tips on upgrading here: [Upgrade howto links](#upgrade-howto-links). If you start upgrading a project, please submit an issue so that we can update the status in this list.
@@ -15,13 +20,14 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 
 
 ## Table of Contents
-- [Elm projects](#elm-projects)
+- [Elm projects that is not on the current Elm version (0.17)](#elm-projects)
     - [Prioritized projects](#prioritized)
     - [Packages](#packages)
     - [Articles](#articles)
     - [Demos and tutorials](#demos-tutorials)
     - [Games](#games)
     - [Misc](#misc)
+    - [In progress](#in-progress)
     - [Upgraded](#upgraded)
     - [Not upgraded](#not-upgraded)
     - [Leave as is](#leave-as-is)
@@ -183,6 +189,14 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 
 **[:arrow_up: back to top](#table-of-contents)**
 
+## In-progress
+
+*Projects where upgrade has been started / in progress. Create an issue/PR to move any project to this category*
+
+* No projects here yet.
+
+**[:arrow_up: back to top](#table-of-contents)**
+
 
 ## Upgraded
 
@@ -213,6 +227,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * No projects here yet.
 
 **[:arrow_up: back to top](#table-of-contents)**
+
 
 
 ## Template
