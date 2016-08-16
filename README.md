@@ -127,9 +127,11 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Sudoku Game](https://github.com/erich-9/elm-sudoku) - Sudoku game, written in Elm, encouraged by Janis Voigtländer's lecture Fortgeschrittene Funktionale Programmierung..
 * [Four In A Line game](https://github.com/iitzco/FourInALine) - Elm implementation of Minimax Algorithm applied to Four In A Line game.
 * [Elm Memory game](https://github.com/Nazanin1369/elm-memoryGame) - Memory game using Elm.
+* [Demoscene-Concentration](https://github.com/Dobiasd/Demoscene-Concentration) - The classical memory game with (simple) old-school demoscene effects.
 * [Math game Elm](https://github.com/arturopala/math-game-elm) - Math game written in Elm.
 * [Elm css color guess game](https://github.com/irrwitz/elm-css-color-guess-game) - A "do you what CSS color this looks like" game.
 * [Froggy](https://github.com/thSoft/froggy) - A little puzzle game.
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
