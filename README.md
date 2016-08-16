@@ -170,6 +170,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [HttpSpy](https://github.com/jamesmacaulay/http_spy) - Watch HTTP requests as they happen.
 * [Todo Mvc ElmFire](https://github.com/ThomasWeiser/todomvc-elmfire) - TodoMVC+Firebase in Elm+ElmFire.
   * Depends on the ElmFire package to be updated to 0.17.
+* [Lemur](https://github.com/vilterp/lemur) - Lemur: visual functional programming language that compiles to Python.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
