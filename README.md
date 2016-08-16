@@ -179,7 +179,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Sketch-n-Sketch](https://github.com/ravichugh/sketch-n-sketch) - Prodirect Manipulation for SVG.
 * [Livechat](https://github.com/Diamond/livechat-elm) - The LiveChat repository, except with Elm powering the chat code.
 * [Mantl UI frontend](https://github.com/CiscoCloud/mantl-ui-frontend) - Mantl UI frontend.
-
+* [Elm Hedley](https://github.com/Gizra/elm-hedley) - Elm web app with Headless Drupal backend.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
