@@ -131,7 +131,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Math game Elm](https://github.com/arturopala/math-game-elm) - Math game written in Elm.
 * [Elm css color guess game](https://github.com/irrwitz/elm-css-color-guess-game) - A "do you what CSS color this looks like" game.
 * [Froggy](https://github.com/thSoft/froggy) - A little puzzle game.
-
+* [EditGym](https://github.com/Dobiasd/EditGym) - Text editing training.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
