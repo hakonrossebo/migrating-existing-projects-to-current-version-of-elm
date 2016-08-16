@@ -164,6 +164,8 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Gipher](https://github.com/matthieu-beteille/gipher) - Tinder like app for gifs built with elm and firebase.
 * [The Cheese palette](https://github.com/splodingsocks/the-cheese-palette) - The source for The Cheese Palette's Web site.
 * [W3 Elm](https://github.com/ahoskins/w3-elm) - An Elm port of the W3Schools HTML editor.
+* [Reddit Time Machine](https://github.com/Dobiasd/RedditTimeMachine) - Check out what was hot on reddit days/weeks/months ago.
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
