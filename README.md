@@ -177,7 +177,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
   * Depends on the ElmFire package to be updated to 0.17.
 * [Lemur](https://github.com/vilterp/lemur) - Lemur: visual functional programming language that compiles to Python.
 * [Sketch-n-Sketch](https://github.com/ravichugh/sketch-n-sketch) - Prodirect Manipulation for SVG.
-
+* [Livechat](https://github.com/Diamond/livechat-elm) - The LiveChat repository, except with Elm powering the chat code.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
