@@ -134,6 +134,7 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [EditGym](https://github.com/Dobiasd/EditGym) - Text editing training.
 * [Maze](https://github.com/Dobiasd/Maze) - Test your mouse precision skills with this simple maze game.
 * [2048](https://github.com/alexmost/2048) - 2048 implementation in Elm.
+* [Minesweeper](https://github.com/SekibOmazic/minesweeper) - My first take on Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
