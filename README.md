@@ -128,6 +128,8 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Four In A Line game](https://github.com/iitzco/FourInALine) - Elm implementation of Minimax Algorithm applied to Four In A Line game.
 * [Elm Memory game](https://github.com/Nazanin1369/elm-memoryGame) - Memory game using Elm.
 * [Math game Elm](https://github.com/arturopala/math-game-elm) - Math game written in Elm.
+* [Elm css color guess game](https://github.com/irrwitz/elm-css-color-guess-game) - A "do you what CSS color this looks like" game.
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
