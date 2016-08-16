@@ -168,6 +168,8 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [W3 Elm](https://github.com/ahoskins/w3-elm) - An Elm port of the W3Schools HTML editor.
 * [Reddit Time Machine](https://github.com/Dobiasd/RedditTimeMachine) - Check out what was hot on reddit days/weeks/months ago.
 * [HttpSpy](https://github.com/jamesmacaulay/http_spy) - Watch HTTP requests as they happen.
+* [Todo Mvc ElmFire](https://github.com/ThomasWeiser/todomvc-elmfire) - TodoMVC+Firebase in Elm+ElmFire.
+  * Depends on the ElmFire package to be updated to 0.17.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
