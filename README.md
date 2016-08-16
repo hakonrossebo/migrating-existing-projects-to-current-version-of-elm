@@ -171,6 +171,8 @@ By maintaining this and upgrading projects, I hope that we could help the Elm co
 * [Todo Mvc ElmFire](https://github.com/ThomasWeiser/todomvc-elmfire) - TodoMVC+Firebase in Elm+ElmFire.
   * Depends on the ElmFire package to be updated to 0.17.
 * [Lemur](https://github.com/vilterp/lemur) - Lemur: visual functional programming language that compiles to Python.
+* [Sketch-n-Sketch](https://github.com/ravichugh/sketch-n-sketch) - Prodirect Manipulation for SVG.
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
