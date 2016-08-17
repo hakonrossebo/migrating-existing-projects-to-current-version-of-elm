@@ -185,7 +185,6 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 * [Sketch-n-Sketch](https://github.com/ravichugh/sketch-n-sketch) - Prodirect Manipulation for SVG.
 * [Livechat](https://github.com/Diamond/livechat-elm) - The LiveChat repository, except with Elm powering the chat code.
 * [Mantl UI frontend](https://github.com/CiscoCloud/mantl-ui-frontend) - Mantl UI frontend.
-* [Elm Hedley](https://github.com/Gizra/elm-hedley) - Elm web app with Headless Drupal backend.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
@@ -206,6 +205,10 @@ By maintaining this list and upgrading projects, I hope that we could help the E
   * Status: Updated to current version of Elm
   * Upgraded by: [hakonrossebo](https://github.com/hakonrossebo)
   * Changed Graphics.Collage with Kwarrtz/render to render svg
+* [Elm Hedley](https://github.com/Gizra/elm-hedley) - Elm web app with Headless Drupal backend.
+  * Status: There is a branch with an upgrade to 0.17
+  * [Se video here](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
+
 
 **[:arrow_up: back to top](#table-of-contents)**
 
