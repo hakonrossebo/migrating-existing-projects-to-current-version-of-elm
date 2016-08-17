@@ -144,7 +144,7 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 * [Elm Games](https://github.com/localshred/elm-games) - A bunch of goofy games, written in Elm (Minesweeper and TicTacToe).
 * [Sliding Puzzle](https://github.com/moroshko/sliding-puzzle) - Sliding puzzle built in Elm.
 * [MMP Halloween Text Adventure](https://github.com/robwhitaker/MMPHalloween2015) - A text-adventure game based on Midnight Murder Party.
-
+* [Starsystem](https://github.com/joakimk/starsystem) - Playing around with Elm and live code updates by building a game.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
