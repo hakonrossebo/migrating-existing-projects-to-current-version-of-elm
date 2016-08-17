@@ -185,6 +185,7 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 * [Sketch-n-Sketch](https://github.com/ravichugh/sketch-n-sketch) - Prodirect Manipulation for SVG.
 * [Livechat](https://github.com/Diamond/livechat-elm) - The LiveChat repository, except with Elm powering the chat code.
 * [Mantl UI frontend](https://github.com/CiscoCloud/mantl-ui-frontend) - Mantl UI frontend.
+* [Starfield](https://github.com/mikokm/starfield) - Starfield effect written in Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
