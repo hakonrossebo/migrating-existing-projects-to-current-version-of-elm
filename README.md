@@ -40,8 +40,10 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 *Projects that are requested by the community to be prioritized.*
 *Create an issue or submit a pull request with projects to be prioritized*
 
-* No projects here yet.
-
+*   [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/) - Article and code referenced from elm-lang.org.
+  * Referenced [here](http://elm-lang.org/get-started) (in continue learning - bullet point 6)
+  * Source code [here](https://github.com/twopoint718/elmchat)
+  
 **[:arrow_up: back to top](#table-of-contents)**
 
 
