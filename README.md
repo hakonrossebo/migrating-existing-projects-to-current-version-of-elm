@@ -40,10 +40,13 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 *Projects that are requested by the community to be prioritized.*
 *Create an issue or submit a pull request with projects to be prioritized*
 
-*   [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/) - Article and code referenced from elm-lang.org.
+* [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/) - Article and code referenced from elm-lang.org.
   * Referenced [here](http://elm-lang.org/get-started) (in continue learning - bullet point 6)
   * Source code [here](https://github.com/twopoint718/elmchat)
-  
+* [Checkerboard grid tutorial](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial) - Tutorial on Container Components in Elm.
+  * Referenced [here](http://elm-lang.org/get-started) (in continue learning - bullet point 6)
+  * As I understand, it has not been possible to contact @TheSeamau5 for almost a year. Maybe someone else should take over the project instead of creating a PR.
+  * 
 **[:arrow_up: back to top](#table-of-contents)**
 
 
@@ -79,7 +82,6 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 * [Bike configurator](https://github.com/dennisreimann/elm-bike-configurator) - Pretty simple app for configuring a bike with colored components, written in Elm.
 * [Raycasting](https://github.com/derkyjadex/elm-rays) - Raycasting. Written for April 2016's West London Hack Night.
   * Only needs to update readme with a reference the new implementation [here](https://github.com/krisajenkins/elm-rays)
-* [Checkerboard grid tutorial](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial) - Tutorial on Container Components in Elm.
 * [Elm timewatch](https://github.com/Gizra/elm-timewatch) - Work attendance clock.
 
 
