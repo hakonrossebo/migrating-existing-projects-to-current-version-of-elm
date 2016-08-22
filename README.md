@@ -189,6 +189,7 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 * [Livechat](https://github.com/Diamond/livechat-elm) - The LiveChat repository, except with Elm powering the chat code.
 * [Mantl UI frontend](https://github.com/CiscoCloud/mantl-ui-frontend) - Mantl UI frontend.
 * [Starfield](https://github.com/mikokm/starfield) - Starfield effect written in Elm.
+* [MetronomeElm](https://github.com/dc25/metronomeElm) - Simulation of mechanical metronome.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
