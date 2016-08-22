@@ -148,6 +148,7 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 * [Starsystem](https://github.com/joakimk/starsystem) - Playing around with Elm and live code updates by building a game.
 * [Traffic Simulation in Elm](https://github.com/adamw/traffic) - Simple intersection simulation/game writen in Elm. Make the drivers happy :)..
 * [Blue Pill](https://github.com/fun-redoc/blue-pill-elm-homage) - Me learning Elm after Goran Milovanovic blue pill tutorial.
+* [SokobanElm](https://github.com/G4BB3R/SokobanElm) - Remake of the classical game Sokoban in Elm.
 
 **[:arrow_up: back to top](#table-of-contents)**
 
