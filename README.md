@@ -40,9 +40,6 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 *Projects that are requested by the community to be prioritized.*
 *Create an issue or submit a pull request with projects to be prioritized*
 
-* [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/) - Article and code referenced from elm-lang.org.
-  * Referenced [here](http://elm-lang.org/get-started) (in continue learning - bullet point 6)
-  * Source code [here](https://github.com/twopoint718/elmchat)
 * [Checkerboard grid tutorial](https://github.com/TheSeamau5/elm-checkerboardgrid-tutorial) - Tutorial on Container Components in Elm.
   * Referenced [here](http://elm-lang.org/get-started) (in continue learning - bullet point 6)
   * As I understand, it has not been possible to contact @TheSeamau5 for almost a year. Maybe someone else should take over the project instead of creating a PR.
@@ -213,6 +210,10 @@ By maintaining this list and upgrading projects, I hope that we could help the E
 * [Elm Hedley](https://github.com/Gizra/elm-hedley) - Elm web app with Headless Drupal backend.
   * Status: There is a branch with an upgrade to 0.17
   * [Se video here](https://www.youtube.com/watch?v=FgaoOgJ5CAU)
+* [Elm for the Frontend, Right Now](http://bendyworks.com/elm-frontend-right-now/) - Article and code referenced from elm-lang.org.
+  * Status: Updated to current version of Elm
+  * Upgraded by: Author
+  * Source code [here](https://github.com/twopoint718/elmchat)
 
 
 **[:arrow_up: back to top](#table-of-contents)**
